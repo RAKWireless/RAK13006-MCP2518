@@ -1,10 +1,13 @@
+| <center><img src="./assets/rakstar.jpg" alt="RAKstar" width=25%></center>  | ![RAKWireless](./assets/RAK-Whirls.png) | [![Build Status](https://github.com/RAKWireless/RAK13006-MCP2518/workflows/RAK%20Library%20Build%20CI/badge.svg)](https://github.com/RAKWireless/RAK13006-MCP2518/actions) |
+| -- | -- | -- |
 
-
-
+# <RAK1306>
 
 ## 1. Introduction
 
 RAK13006-MCP2518-Library is modified from Acan2517FD(V2.1.7) for pierremolinaro (https://github.com/pierremolinaro/acan2517FD). Because this library is very comprehensive and integrates many platfroms and supports MCP2517 and MCP2518. However we rearranged the directory structure and make two subclass to inherit original class, this way is very elegant. So this library completely inherits the functions of Acan2517FD and is more easy to use.
+
+[*RAKWireless RAK13006 CAN*](https://store.RAKWireless.com/products/RAK13006-CAN)
 
 
 
