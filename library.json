@@ -1,6 +1,6 @@
 {
 	"name": "RAK13006-MCP2518 library",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"CAN BUS",
 		"MCP2518",
