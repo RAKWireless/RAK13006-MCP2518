@@ -15,7 +15,7 @@
 	"platforms": [
 		"*"
 	],
-	"license": "GNU",
+	"license": "MIT",
 	"authors": [
 		{
 			"email": "tinapeng.liu@rakwireless.com",
